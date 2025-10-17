@@ -94,7 +94,7 @@ const AuthPage: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-background via-background to-muted/10 px-4">
       <div className="w-full max-w-md rounded-xl border border-border/60 bg-background/80 p-6 shadow-lg backdrop-blur">
         <div className="mb-6 text-center">
-          <h1 className="text-2xl font-bold tracking-tight">Service PRO</h1>
+          <h1 className="text-2xl font-bold tracking-tight">Sell Service</h1>
           <p className="text-sm text-muted-foreground mt-1">Acesse sua conta ou crie uma nova</p>
         </div>
 
