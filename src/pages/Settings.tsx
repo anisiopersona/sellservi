@@ -272,7 +272,7 @@ const Settings: React.FC = () => {
   return (
     <div>
       <SEO
-        title="Configurações — Service PRO"
+        title="Configurações — Sell Service "
         description="Configurações da conta"
       />
       <h1 className="text-2xl font-semibold mb-6">Configurações</h1>
