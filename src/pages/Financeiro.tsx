@@ -173,7 +173,7 @@ export default function Financeiro() {
   return (
     <div className="space-y-4 sm:space-y-6 p-4 sm:p-0">
       <SEO
-        title="Financeiro - Service PRO"
+        title="Financeiro - Sell Service"
         description="Gestão financeira e controle de receitas"
       />
 
