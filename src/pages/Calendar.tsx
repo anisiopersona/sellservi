@@ -133,7 +133,7 @@ export default function Calendar() {
   return (
     <div>
       <SEO
-        title="Service PRO — Calendário"
+        title="Sell Service — Calendário"
         description="Calendário de ordens de serviço"
       />
       <h1 className="text-2xl font-semibold mb-4">
