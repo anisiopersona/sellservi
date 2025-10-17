@@ -94,10 +94,10 @@ export default function Dashboard() {
   return (
     <div>
       <SEO
-        title="Service PRO — Dashboard"
+        title="Sell Service — Dashboard"
         description="Visão geral das ordens de serviço"
       />
-      <h1 className="text-2xl font-semibold mb-4">Dashboard — Service PRO</h1>
+      <h1 className="text-2xl font-semibold mb-4">Dashboard — Sell Service</h1>
 
       <div className="grid gap-4 md:grid-cols-4">
         {stats.map((stat, index) => (
