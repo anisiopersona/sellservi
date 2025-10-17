@@ -116,7 +116,7 @@ export default function OrderEdit() {
   return (
     <div>
       <SEO
-        title={`Service PRO — Editar OS ${order.id}`}
+        title={`Sell Service — Editar OS ${order.id}`}
         description="Editar ordem de serviço"
       />
       <h1 className="text-2xl font-semibold mb-4">Editar OS #{order.id}</h1>
