@@ -139,7 +139,7 @@ export default function Reports() {
       pdf.setTextColor(255, 255, 255);
       pdf.setFontSize(18);
       pdf.setFont("helvetica", "bold");
-      pdf.text("SERVICE PRO - RELATÓRIO GERENCIAL", pageWidth / 2, 20, {
+      pdf.text("SELL SERVICE - RELATÓRIO GERENCIAL", pageWidth / 2, 20, {
         align: "center",
       });
       pdf.setTextColor(0, 0, 0);
@@ -368,7 +368,7 @@ export default function Reports() {
   return (
     <div className="space-y-6">
       <SEO
-        title="Service PRO — Relatórios"
+        title="Sell Service — Relatórios"
         description="Produtividade e estatísticas"
       />
 
