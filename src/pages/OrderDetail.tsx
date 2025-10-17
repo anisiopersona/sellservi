@@ -110,7 +110,7 @@ export default function OrderDetail() {
   return (
     <div>
       <SEO
-        title={`Service PRO — OS ${order.id}`}
+        title={`Sell Service — OS ${order.id}`}
         description="Detalhes da ordem de serviço"
       />
       <h1 className="text-2xl font-semibold mb-4">OS #{order.id}</h1>
