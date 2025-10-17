@@ -145,7 +145,7 @@ export default function OrderNew() {
   return (
     <div>
       <SEO
-        title="Service PRO — Nova OS"
+        title="Sell Service — Nova OS"
         description="Criar nova ordem de serviço"
       />
       <h1 className="text-2xl font-semibold mb-4">Criar Nova OS</h1>
