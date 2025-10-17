@@ -129,7 +129,7 @@ export default function Clients() {
 
   return (
     <div>
-      <SEO title="Service PRO — Clientes" description="Gestão de clientes" />
+      <SEO title="Sell Service — Clientes" description="Gestão de clientes" />
       <div className="flex items-center justify-between mb-6">
         <h1 className="text-2xl font-semibold">Clientes</h1>
         <Dialog open={dialogOpen} onOpenChange={setDialogOpen}>
