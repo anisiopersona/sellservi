@@ -124,7 +124,7 @@ export default function OrderEditFinanceiro() {
   return (
     <div>
       <SEO
-        title={`Service PRO — Editar Financeiro OS ${order.id}`}
+        title={`Sell Service — Editar Financeiro OS ${order.id}`}
         description="Editar informações financeiras da ordem de serviço"
       />
       <h1 className="text-2xl font-semibold mb-4">
