@@ -99,7 +99,7 @@ export default function ServiceTypes() {
   return (
     <div>
       <SEO
-        title="Service PRO — Tipos de Serviço"
+        title="Sell Service — Tipos de Serviço"
         description="Gestão de tipos de serviço"
       />
       <div className="flex items-center justify-between mb-6">
