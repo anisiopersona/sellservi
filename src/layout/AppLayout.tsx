@@ -57,7 +57,7 @@ function AppSidebar() {
         <SidebarGroup>
           <SidebarGroupLabel className="text-lg font-bold text-primary px-4 py-6 group-data-[collapsible=icon]:px-2 group-data-[collapsible=icon]:py-2 group-data-[collapsible=icon]:text-center">
             <span className="group-data-[collapsible=icon]:hidden">
-              Service PRO
+              Sell Service
             </span>
             <span className="hidden group-data-[collapsible=icon]:block text-xs font-bold">
               SP
