@@ -115,7 +115,7 @@ export default function Technicians() {
   return (
     <div>
       <SEO
-        title="Service PRO — Técnicos"
+        title="Sell Service  — Técnicos"
         description="Gestão de técnicos e atribuições"
       />
       <div className="flex items-center justify-between mb-6">
